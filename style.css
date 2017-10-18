@@ -1,5 +1,6 @@
 body {
   background-image: url("https://vignette.wikia.nocookie.net/starwars/images/b/b0/Bright_tree.jpg/revision/latest?cb=20120113223335");
+  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
