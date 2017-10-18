@@ -1,7 +1,7 @@
 body {
-  background-image: url("https://vignette.wikia.nocookie.net/starwars/images/b/b0/Bright_tree.jpg/revision/latest?cb=20120113223335");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+ background-image: url("https://vignette3.wikia.nocookie.net/starwars/images/3/34/Endor_Imperial_Platform_ST.png/revision/latest?cb=20130308052927");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
   }
