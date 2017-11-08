@@ -5,7 +5,7 @@ html{
 
 p {
 	font-family:Trebuchet MS;
-    font-size: 20px;
+    font-size: 50px;
 	color: #ff8000;
 	text-align: left;
 }
@@ -13,22 +13,30 @@ body{
 	background-image: url("https://i.pinimg.com/originals/4b/ef/6b/4bef6b4e2b420874a982bcbb0da5d4a7.jpg");
 	    background-position:center center;
 	    background-size:cover;
+	margin: 0;
 }
 
 ul {
-	list-style-type: none;
+	list-style-type: none; /* removes bullets*/
 	background: lightgray;
 	width: 100px;
 	padding: 0;
-	
-	
-	
-}
+	}
 
 li a{ 
 	display: block;
 	text-align: center;
+	text-decoration: none;
+	color:#CC00FF;
+	font-family:Trebuchet MS;
+	height: 30px;
+	padding: 10px;
+	
+}	
+
+	
 li a:hover {
 	background:#ff8000;
 }
 	
+
